@@ -1,7 +1,7 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
+   * Recode By Andre Dev
+   * Contact Me on wa.me/6283137785501
    * Follow https://github.com/nazedev
 */
 
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.owner = ['6281349080601']
+global.ownernomer = "6281349080601"
+global.premium = ['6283137785501']
+global.packname = 'Sticker  Ofcbot'
+global.author = 'Ofcbot'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.prefa = ['','!','.','#','&']
 global.sp = ''
